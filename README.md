@@ -100,17 +100,4 @@ Full stack development for a nursing master's research project, automating the h
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuigiAlmeida&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiAlmeida&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuigiAlmeida&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center"><i>📫 Feel free to reach out, I'm always happy to talk about AI, software engineering or the HPV app project.</i></p>
